@@ -1,0 +1,11 @@
+PyCity Schools Analysis
+
+Budget vs. Test Results: Higher school budgets didn't guarantee better academic performance. Schools with lower spending per student outperformed those with higher budgets.
+School Size and Performance: Smaller and medium-sized schools excelled in math performance compared to large schools, with passing rates of 89-91% vs. 67%.
+Charter vs. Public Schools: Charter schools outperformed public schools in all metrics. Further analysis is needed to understand whether this is due to school practices or smaller student populations.
+Key Insights: Beyond funding, factors like school size and governance influence academic success. Understanding these nuances can guide improvements in public education.
+
+Methodology: Python and Pandas were used to analyze school and student data, calculating average scores and passing rates. The analysis included breakdowns by spending, school size, and type for comprehensive insights.
+
+1. Budget vs. Academic Performance: The analysis reveals that schools with lower spending per student ($585 or less) achieved higher overall passing rates compared to schools with higher budgets ($645-680 per student). This suggests that budget allocation alone does not guarantee a greater academic outcomes.
+2. School Size and Math Performance: The data indicates that smaller and medium-sized schools consistently outperformed larger schools in math. These smaller schools had higher average math scores and a greater percentage of students passing math, showcasing the potential benefits of smaller class sizes and more personalized instruction.
